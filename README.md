@@ -51,3 +51,11 @@ query(question_cost)
 # Example 2: Get information from Wikipedia
 question_wiki = """EUFA Euro 2021"""
 query(question_wiki)
+````
+
+# Demo
+
+
+https://github.com/user-attachments/assets/8969cbac-c4d2-4681-8b75-8a32c10b40ab
+
+
